@@ -1,0 +1,6 @@
+C:\Users\UMUM\Documents\SharpDevelop Projects\BTSProgram\BTSProgram\bin\Debug\BTSProgram.exe.config
+C:\Users\UMUM\Documents\SharpDevelop Projects\BTSProgram\BTSProgram\bin\Debug\BTSProgram.exe
+C:\Users\UMUM\Documents\SharpDevelop Projects\BTSProgram\BTSProgram\bin\Debug\BTSProgram.pdb
+C:\Users\UMUM\Documents\SharpDevelop Projects\BTSProgram\BTSProgram\obj\Debug\BTSProgram.csprojResolveAssemblyReference.cache
+C:\Users\UMUM\Documents\SharpDevelop Projects\BTSProgram\BTSProgram\obj\Debug\BTSProgram.exe
+C:\Users\UMUM\Documents\SharpDevelop Projects\BTSProgram\BTSProgram\obj\Debug\BTSProgram.pdb
